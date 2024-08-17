@@ -1,0 +1,12 @@
+{
+    "name": "Nexo",
+    "website": "https://nexo.com/",
+    "description": "Nexo is the world's leading and most trusted lending institution in the digital finance industry.",
+    "socials": [],
+    "explorer": "https://polygonscan.com/token/0x41b3966B4FF7b427969ddf5da3627d6AEAE9a48E",
+    "type": "ERC20",
+    "symbol": "NEXO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x41b3966B4FF7b427969ddf5da3627d6AEAE9a48E"
+}

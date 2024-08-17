@@ -1,0 +1,12 @@
+{
+    "name": "Chainlink Token",
+    "website": "https://chain.link",
+    "description": "Chainlink is a decentralized oracle service, which aims to connect smart contracts with data from the real world. Oracles are needed to function as data feeds in smart contracts. Oracles provide external data (e.g. temperature, weather) that can drive smart contract executions. Participants on the network are incentivized (through rewards) to provide smart contracts with access to external data feeds.",
+    "socials": [],
+    "explorer": "https://snowtrace.io/token/0x5947BB275c521040051D82396192181b413227A3",
+    "type": "ERC20",
+    "symbol": "LINK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5947BB275c521040051D82396192181b413227A3"
+}

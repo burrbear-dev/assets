@@ -1,0 +1,12 @@
+{
+    "name": "Rocket Pool ETH (PoS)",
+    "website": "https://rocketpool.net/",
+    "description": "Rocket Pool is the leading decentralised liquid staking protocol for Ethereum.",
+    "socials": [],
+    "explorer": "https://polygonscan.com/token/0x0266F4F08D82372CF0FcbCCc0Ff74309089c74d1",
+    "type": "ERC20",
+    "symbol": "rETH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0266F4F08D82372CF0FcbCCc0Ff74309089c74d1"
+}

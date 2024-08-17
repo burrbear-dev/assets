@@ -1,0 +1,11 @@
+{
+  "name": "Nectar",
+  "symbol": "NECT",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "",
+  "explorer": "https://bartio.beratrail.io/token/0xf5AFCF50006944d17226978e594D4D25f4f92B40",
+  "status": "active",
+  "id": "0xf5AFCF50006944d17226978e594D4D25f4f92B40"
+}

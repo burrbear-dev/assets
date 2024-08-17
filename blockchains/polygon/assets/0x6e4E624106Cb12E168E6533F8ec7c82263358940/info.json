@@ -1,0 +1,12 @@
+{
+    "name": "Axelar",
+    "website": "https://axelar.network/",
+    "description": "Axelar is the programmable Web3 interoperability platform, scaling the next generation of internet applications to billions of users.",
+    "socials": [],
+    "explorer": "https://polygonscan.com/token/0x6e4E624106Cb12E168E6533F8ec7c82263358940",
+    "type": "ERC20",
+    "symbol": "AXL",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x6e4E624106Cb12E168E6533F8ec7c82263358940"
+}

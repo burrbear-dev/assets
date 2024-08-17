@@ -1,0 +1,12 @@
+{
+    "name": "GreenMetaverseToken",
+    "website": "",
+    "description": "",
+    "socials": [],
+    "explorer": "https://polygonscan.com/token/0x714DB550b574b3E927af3D93E26127D15721D4C2",
+    "type": "ERC20",
+    "symbol": "GMT",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x714DB550b574b3E927af3D93E26127D15721D4C2"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "bb-a-usd CSP-v3",
+    "symbol": "bb-a-usd CSP-v3",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "explorer": "https://goerli.etherscan.io/token/0x7CCB99E3DBeF941a062E0da1b0d7635bdCFafB01",
+    "socials": [],
+    "status": "active",
+    "id": "0x7CCB99E3DBeF941a062E0da1b0d7635bdCFafB01"
+}

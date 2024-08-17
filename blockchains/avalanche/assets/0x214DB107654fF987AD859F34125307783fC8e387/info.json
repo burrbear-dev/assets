@@ -1,0 +1,12 @@
+{
+    "name": "Frax Share",
+    "website": "https://frax.finance/",
+    "description": "Frax Share (FXS) is the utility token that can be staked as veFXS to govern the ecosystem's stablecoins and infrastructure protocols. FXS tokens have various utility and features within the overall Frax economy.",
+    "socials": [],
+    "explorer": "https://snowtrace.io/token/0x214DB107654fF987AD859F34125307783fC8e387",
+    "type": "ERC20",
+    "symbol": "FXS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x214DB107654fF987AD859F34125307783fC8e387"
+}

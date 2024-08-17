@@ -1,0 +1,11 @@
+{
+  "name": "Mock NECT",
+  "symbol": "NECT",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "",
+  "explorer": "https://artio.beratrail.io/address/0x45cb13b18A6cBB03A0367FB91cF27bacc069d46d",
+  "status": "active",
+  "id": "0x45cb13b18A6cBB03A0367FB91cF27bacc069d46d"
+}

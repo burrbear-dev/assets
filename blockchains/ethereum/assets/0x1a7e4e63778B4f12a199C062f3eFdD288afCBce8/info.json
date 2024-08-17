@@ -1,0 +1,11 @@
+{
+    "name": "agEUR",
+    "website": "https://www.angle.money/ageur",
+    "description": "Discover agEUR, the most liquid and scalable Euro stablecoin.",
+    "explorer": "https://etherscan.io/token/0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+    "type": "ERC20",
+    "symbol": "agEUR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8"
+}

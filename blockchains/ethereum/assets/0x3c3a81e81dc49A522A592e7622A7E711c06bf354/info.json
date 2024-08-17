@@ -1,0 +1,11 @@
+{
+    "name": "Mantle",
+    "symbol": "MNT",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Mantle Network is a technology stack for scaling Ethereum, and we strive to be EVM-compatible while doing so.",
+    "website": "https://www.mantle.xyz/",
+    "explorer": "https://etherscan.io/token/0x3c3a81e81dc49A522A592e7622A7E711c06bf354",
+    "status": "active",
+    "id": "0x3c3a81e81dc49A522A592e7622A7E711c06bf354"
+}

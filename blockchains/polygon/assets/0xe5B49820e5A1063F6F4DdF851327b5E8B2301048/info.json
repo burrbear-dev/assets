@@ -1,0 +1,12 @@
+{
+    "name": "Bonk",
+    "website": "https://bonkcoin.com/",
+    "description": "As the true community coin of web3, $BONK's utility comes in the form of its strong community and thriving ecosystem of integrations.",
+    "socials": [],
+    "explorer": "https://polygonscan.com/token/0xe5B49820e5A1063F6F4DdF851327b5E8B2301048",
+    "type": "ERC20",
+    "symbol": "Bonk",
+    "decimals": 5,
+    "status": "active",
+    "id": "0xe5B49820e5A1063F6F4DdF851327b5E8B2301048"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "handlePHP",
+    "symbol": "fxPHP",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://etherscan.io/token/0x3d147cD9aC957B2a5F968dE9d1c6B9d0872286a0",
+    "status": "active",
+    "id": "0x3d147cD9aC957B2a5F968dE9d1c6B9d0872286a0"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Mock USDC",
+  "symbol": "USDC",
+  "type": "ERC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "",
+  "explorer": "https://artio.beratrail.io/address/0xF5C462bf81a6b6af0f87749eFACe2453c35CB519",
+  "status": "active",
+  "id": "0xF5C462bf81a6b6af0f87749eFACe2453c35CB519"
+}

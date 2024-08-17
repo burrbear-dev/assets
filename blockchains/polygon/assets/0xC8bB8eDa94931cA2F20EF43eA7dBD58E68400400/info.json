@@ -1,0 +1,12 @@
+{
+  "name": "VNX Gold",
+  "website": "https://vnx.li/gold/",
+  "description": "",
+  "socials": [],
+  "explorer": "https://polygonscan.com/address/0xC8bB8eDa94931cA2F20EF43eA7dBD58E68400400",
+  "type": "ERC20",
+  "symbol": "VNXAU",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xC8bB8eDa94931cA2F20EF43eA7dBD58E68400400"
+}

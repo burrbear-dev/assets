@@ -1,0 +1,11 @@
+{
+  "name": "BAL",
+  "symbol": "BAL",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "",
+  "explorer": "https://explorer.katla.taiko.xyz/address/0x58A501c3Cc724aB1Ac9184452C16E158d5122d48",
+  "status": "active",
+  "id": "0x58A501c3Cc724aB1Ac9184452C16E158d5122d48"
+}

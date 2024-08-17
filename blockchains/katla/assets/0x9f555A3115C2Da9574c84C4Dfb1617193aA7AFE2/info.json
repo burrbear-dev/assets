@@ -1,0 +1,11 @@
+{
+  "name": "DAI_mock",
+  "symbol": "DAI_mock",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "",
+  "explorer": "https://explorer.katla.taiko.xyz/address/0x9f555A3115C2Da9574c84C4Dfb1617193aA7AFE2",
+  "status": "active",
+  "id": "0x9f555A3115C2Da9574c84C4Dfb1617193aA7AFE2"
+}

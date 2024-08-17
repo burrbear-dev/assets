@@ -1,0 +1,11 @@
+{
+    "name": "Thetanut Index USDC (Wormhole)",
+    "symbol": "indexUSDC",
+    "type": "ERC20",
+    "decimals": 6,
+    "description": "-",
+    "website": "",
+    "explorer": "https://polygonscan.com/token/0x35b51Ff33bE10a9a741e9C9d3f17585e4b7D15C0",
+    "status": "active",
+    "id": "0x35b51Ff33bE10a9a741e9C9d3f17585e4b7D15C0"
+}

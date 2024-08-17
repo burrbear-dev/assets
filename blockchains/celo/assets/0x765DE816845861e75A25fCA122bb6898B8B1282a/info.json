@@ -1,0 +1,11 @@
+{
+    "name": "Celo Dollar",
+    "website": "https://celo.org/",
+    "description": "Celo is a decentralized platform that will enable a family of crypto-collateralized/seignioragestyle stable value assets. This document analyzes the behavior of Celo stable value assets over a set of simulated scenarios.",
+    "explorer": "https://explorer.celo.org/mainnet/address/0x765DE816845861e75A25fCA122bb6898B8B1282a",
+    "type": "ERC20",
+    "symbol": "cUSD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x765DE816845861e75A25fCA122bb6898B8B1282a"
+}

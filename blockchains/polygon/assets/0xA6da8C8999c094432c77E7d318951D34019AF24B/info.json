@@ -1,0 +1,12 @@
+{
+  "name": "tGOLD",
+  "website": "https://aurus.io/",
+  "description": "",
+  "socials": [],
+  "explorer": "https://polygonscan.com/token/0xA6da8C8999c094432c77E7d318951D34019AF24B",
+  "type": "ERC20",
+  "symbol": "TXAU",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xA6da8C8999c094432c77E7d318951D34019AF24B"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "TrueUSD",
+  "website": "https://trusttoken.com",
+  "description": "TrueUSD is a USD-pegged stablecoin, that provides its users with regular attestations of escrowed balances, full collateral and legal protection against the misappropriation of the underlying USD.",
+  "explorer": "https://etherscan.io/token/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB",
+  "type": "ERC20",
+  "symbol": "TUSD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB"
+}

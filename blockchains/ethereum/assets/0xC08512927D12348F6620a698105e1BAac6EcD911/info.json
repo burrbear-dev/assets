@@ -1,0 +1,11 @@
+{
+    "name": "GMO JPY",
+    "website": "https://stablecoin.z.com/",
+    "description": "The First Regulated Digital JPY.",
+    "explorer": "https://etherscan.io/token/0xC08512927D12348F6620a698105e1BAac6EcD911",
+    "type": "ERC20",
+    "symbol": "GYEN",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xC08512927D12348F6620a698105e1BAac6EcD911"
+}

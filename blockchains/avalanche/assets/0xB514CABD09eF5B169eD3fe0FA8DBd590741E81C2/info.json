@@ -1,0 +1,12 @@
+{
+  "name": "Decentralized USD",
+  "website": "https://usdd.io",
+  "source_code": "https://etherscan.io/token/0xB514CABD09eF5B169eD3fe0FA8DBd590741E81C2",
+  "description": "Over-Collateralized Decentralized Stablecoin",
+  "explorer": "https://etherscan.io/token/0xB514CABD09eF5B169eD3fe0FA8DBd590741E81C2",
+  "type": "ERC20",
+  "symbol": "USDD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xB514CABD09eF5B169eD3fe0FA8DBd590741E81C2"
+}

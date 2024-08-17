@@ -1,0 +1,12 @@
+{
+  "name": "VNX Franc",
+  "website": "https://vnx.li/vchf/",
+  "description": "VNX Swiss Franc (VCHF) is a multichain token referencing Swiss Franc",
+  "socials": [],
+  "explorer": "https://polygonscan.com/token/0xcdb3867935247049e87c38ea270edd305d84c9ae",
+  "type": "ERC20",
+  "symbol": "VCHF",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xCdB3867935247049e87c38eA270edD305D84c9AE"
+}

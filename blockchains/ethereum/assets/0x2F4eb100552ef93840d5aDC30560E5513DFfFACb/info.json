@@ -1,0 +1,11 @@
+{
+    "name": "Balancer Aave Boosted Pool (USDT)",
+    "symbol": "bb-a-USDT",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://etherscan.io/token/0x2F4eb100552ef93840d5aDC30560E5513DFfFACb",
+    "status": "active",
+    "id": "0x2F4eb100552ef93840d5aDC30560E5513DFfFACb"
+}

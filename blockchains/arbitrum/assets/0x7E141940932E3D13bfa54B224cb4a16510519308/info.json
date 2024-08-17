@@ -1,0 +1,11 @@
+{
+    "name": "handleAUD",
+    "symbol": "fxAUD",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://handle.fi/",
+    "explorer": "https://arbiscan.io/token/0x7E141940932E3D13bfa54B224cb4a16510519308",
+    "status": "active",
+    "id": "0x7E141940932E3D13bfa54B224cb4a16510519308"
+}

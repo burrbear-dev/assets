@@ -1,0 +1,12 @@
+{
+  "name": "VNX Euro",
+  "website": "https://vnx.li/veur/",
+  "description": "VNX Euro (VEUR) is a multichain token referencing Euro from a token generator licensed under the Blockchain act in Liechtenstein",
+  "socials": [],
+  "explorer": "https://polygonscan.com/token/0xE4095d9372E68d108225c306A4491cacfB33B097",
+  "type": "ERC20",
+  "symbol": "VEUR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xE4095d9372E68d108225c306A4491cacfB33B097"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Fei USD",
+    "website": "https://fei.money/",
+    "description": "Fei is a stablecoin pegged to $1 USD. It powers many of the Tribe DAO's services as its liquidity engine.",
+    "explorer": "https://etherscan.io/token/0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
+    "type": "ERC20",
+    "symbol": "FEI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Coinbase Wrapped Staked ETH (FXERC20)",
+    "website": "https://www.coinbase.com/cbeth",
+    "description": "Coinbase Wrapped Staked ETH (“cbETH”) is a utility token that represents Ethereum 2 (ETH2), which is ETH staked through Coinbase.",
+    "socials": [],
+    "explorer": "https://polygonscan.com/token/0x4b4327dB1600B8B1440163F667e199CEf35385f5",
+    "type": "ERC20",
+    "symbol": "fxcbETH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4b4327dB1600B8B1440163F667e199CEf35385f5"
+}

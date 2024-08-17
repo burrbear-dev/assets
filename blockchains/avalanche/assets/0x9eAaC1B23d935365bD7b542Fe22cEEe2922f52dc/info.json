@@ -1,0 +1,12 @@
+{
+    "name": "yearn.finance ",
+    "website": "https://yearn.fi/",
+    "description": "Yearn is a decentralized suite of products helping individuals, DAOs, and other protocols earn yield on their digital assets.",
+    "explorer": "https://snowtrace.io/token/0x9eaac1b23d935365bd7b542fe22ceee2922f52dc",
+    "research": "",
+    "type": "ERC20",
+    "symbol": "YFI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc"
+}

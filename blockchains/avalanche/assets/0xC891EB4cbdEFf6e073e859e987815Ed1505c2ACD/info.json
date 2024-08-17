@@ -1,0 +1,12 @@
+{
+  "name": "Euro Coin",
+  "website": "https://www.circle.com/en/euro-coin",
+  "description": "Euro Coin, or EUROC, is a euro-backed stablecoin that’s accessible globally on Ethereum and Avalanche.",
+  "socials": [],
+  "explorer": "https://snowtrace.io/token/0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD",
+  "type": "ERC20",
+  "symbol": "EUROC",
+  "decimals": 6,
+  "status": "active",
+  "id": "0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD"
+}

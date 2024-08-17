@@ -1,0 +1,18 @@
+{
+    "name": "Goerli",
+    "website": "https://goerli.net/",
+    "source_code": "https://github.com/goerli",
+    "description": "Open source platform to write and distribute decentralized applications.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/Goerli_",
+            "handle": "Goerli_"
+        }
+    ],
+    "explorer": "https://goerli.etherscan.io/",
+    "symbol": "ETH",
+    "type": "COIN",
+    "decimals": 18,
+    "status": "active"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PHP Stablecoin",
+  "symbol": "PHP",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "https://php.tagcash.com/ ",
+  "explorer": "https://amoy.polygonscan.com/token/0x9072828ff0c62311D522B0F0aa1C5ad72F5F8Ce0",
+  "status": "active",
+  "id": "0x9072828ff0c62311D522B0F0aa1C5ad72F5F8Ce0"
+}

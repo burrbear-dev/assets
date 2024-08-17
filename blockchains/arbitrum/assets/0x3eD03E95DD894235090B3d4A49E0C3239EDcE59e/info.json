@@ -1,0 +1,11 @@
+{
+  "name": "Malaysian Ringgit Coin",
+  "symbol": "MYRC",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "https://www.blox.my/",
+  "explorer": "https://arbiscan.io/token/0x3eD03E95DD894235090B3d4A49E0C3239EDcE59e",
+  "status": "active",
+  "id": "0x3eD03E95DD894235090B3d4A49E0C3239EDcE59e"
+}

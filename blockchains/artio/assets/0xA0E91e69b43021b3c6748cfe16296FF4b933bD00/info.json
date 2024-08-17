@@ -1,0 +1,11 @@
+{
+  "name": "Honey",
+  "symbol": "HONEY",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "",
+  "explorer": "https://artio.beratrail.io/address/0xA0E91e69b43021b3c6748cfe16296FF4b933bD00",
+  "status": "active",
+  "id": "0xA0E91e69b43021b3c6748cfe16296FF4b933bD00"
+}

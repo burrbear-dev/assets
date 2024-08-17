@@ -1,0 +1,12 @@
+{
+  "name": "Multi-collateral DAI",
+  "website": "http://makerdao.com",
+  "description": "Dai is a stable cryptocurrency supported by Maker (MKR). To ensure price stability, Dai minimizes the price volatility against the US dollar, through an incentive structure for its participants.",
+  "explorer": "https://etherscan.io/token/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+  "research": "https://research.binance.com/en/projects/dai",
+  "type": "ERC20",
+  "symbol": "DAI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70"
+}

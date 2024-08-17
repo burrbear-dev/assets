@@ -1,0 +1,11 @@
+{
+  "name": "VCHF_mock",
+  "symbol": "VCHF_mock",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "",
+  "explorer": "https://explorer.katla.taiko.xyz/address/0xFA505d02269bF4Ea59355a4e37fBd882122717e5",
+  "status": "active",
+  "id": "0xFA505d02269bF4Ea59355a4e37fBd882122717e5"
+}

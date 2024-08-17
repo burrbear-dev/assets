@@ -1,0 +1,11 @@
+{
+    "name": "USD Coin (Arb1)",
+    "symbol": "USDC",
+    "type": "ERC20",
+    "decimals": 6,
+    "description": "-",
+    "website": "https://www.centre.io/usdc",
+    "explorer": "https://arbiscan.io/address/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "status": "active",
+    "id": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8"
+}

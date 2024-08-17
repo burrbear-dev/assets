@@ -1,0 +1,12 @@
+{
+    "name": "ApeCoin (PoS)",
+    "website": "https://apecoin.com/",
+    "description": "ApeCoin is an ERC-20 governance and utility token used within the APE ecosystem to empower a decentralized community building at the forefront of web3.",
+    "socials": [],
+    "explorer": "https://polygonscan.com/token/0xB7b31a6BC18e48888545CE79e83E06003bE70930",
+    "type": "ERC20",
+    "symbol": "APE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB7b31a6BC18e48888545CE79e83E06003bE70930"
+}

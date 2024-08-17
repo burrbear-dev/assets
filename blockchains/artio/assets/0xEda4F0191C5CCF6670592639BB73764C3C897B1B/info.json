@@ -1,0 +1,11 @@
+{
+  "name": "rUSD_mock",
+  "symbol": "rUSD_mock",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "",
+  "explorer": "",
+  "status": "active",
+  "id": "0xEda4F0191C5CCF6670592639BB73764C3C897B1B"
+}

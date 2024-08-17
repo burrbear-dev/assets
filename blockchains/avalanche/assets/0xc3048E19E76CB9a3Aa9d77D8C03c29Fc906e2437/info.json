@@ -1,0 +1,11 @@
+{
+    "name": "Compound",
+    "symbol": "COMP",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "",
+    "website": "https://compound.finance/",
+    "explorer": "https://snowtrace.io/token/0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437",
+    "status": "active",
+    "id": "0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "AUX Token",
+  "website": "https://lode.one/",
+  "description": "",
+  "explorer": "https://snowtrace.io/token/0x68327a91E79f87F501bC8522fc333FB7A72393cb",
+  "type": "ERC20",
+  "symbol": "AUX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x68327a91E79f87F501bC8522fc333FB7A72393cb"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Decentraland",
+    "website": "https://decentraland.org/",
+    "description": "Decentraland is a virtual social world, the first decentralized metaverse, and the only one that is open source.",
+    "socials": [],
+    "explorer": "https://polygonscan.com/token/0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+    "type": "ERC20",
+    "symbol": "MANA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4"
+}

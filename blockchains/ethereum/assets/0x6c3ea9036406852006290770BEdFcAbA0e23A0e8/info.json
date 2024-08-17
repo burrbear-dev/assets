@@ -1,0 +1,12 @@
+{
+  "name": "PayPal USD",
+  "website": "https://www.paypal.com/pyusd",
+  "source_code": "https://etherscan.io/token/0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
+  "description": "A a stablecoin backed by secure and highly liquid assets",
+  "explorer": "https://etherscan.io/token/0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
+  "type": "ERC20",
+  "symbol": "PYUSD",
+  "decimals": 6,
+  "status": "active",
+  "id": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8"
+}

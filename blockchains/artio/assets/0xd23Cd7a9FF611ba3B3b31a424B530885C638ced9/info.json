@@ -1,0 +1,11 @@
+{
+  "name": "Mock HONEY",
+  "symbol": "HONEY",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "",
+  "explorer": "https://artio.beratrail.io/address/0xd23Cd7a9FF611ba3B3b31a424B530885C638ced9",
+  "status": "active",
+  "id": "0xd23Cd7a9FF611ba3B3b31a424B530885C638ced9"
+}

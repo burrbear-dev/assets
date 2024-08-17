@@ -1,0 +1,11 @@
+{
+  "name": "Mock brONEY",
+  "symbol": "brONEY",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "",
+  "explorer": "https://artio.beratrail.io/address/0x013399514F9089B25F6C59daBA583c5B3d3EC9D2",
+  "status": "active",
+  "id": "0x013399514F9089B25F6C59daBA583c5B3d3EC9D2"
+}

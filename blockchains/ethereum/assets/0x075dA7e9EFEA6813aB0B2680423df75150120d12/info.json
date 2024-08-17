@@ -1,0 +1,11 @@
+{
+    "name": "Thetanut Index USDC",
+    "symbol": "indexUSDC",
+    "type": "ERC20",
+    "decimals": 6,
+    "description": "-",
+    "website": "",
+    "explorer": "https://etherscan.io/token/0x075dA7e9EFEA6813aB0B2680423df75150120d12",
+    "status": "active",
+    "id": "0x075dA7e9EFEA6813aB0B2680423df75150120d12"
+}

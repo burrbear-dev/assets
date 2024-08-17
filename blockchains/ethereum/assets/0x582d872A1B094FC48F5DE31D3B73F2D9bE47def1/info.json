@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped TON Coin",
+    "symbol": "TONCOIN",
+    "type": "ERC20",
+    "decimals": 9,
+    "description": "Toncoin is TON's native cryptocurrency. It is used for network operations, transactions, games or collectibles built on TON.",
+    "website": "https://ton.org/",
+    "explorer": "https://etherscan.io/token/0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
+    "status": "active",
+    "id": "0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1"
+}

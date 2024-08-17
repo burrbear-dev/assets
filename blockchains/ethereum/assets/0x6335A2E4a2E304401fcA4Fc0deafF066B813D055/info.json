@@ -1,0 +1,28 @@
+{
+  "name": "Lollipop Token",
+  "symbol": "LPOP",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "HaloDAO allows anyone to swap, lend, borrow and receive yield in local asset backed stablecoins wherever they are in the world by building a stablecoin marketplace protocol that bridges traditional finance and decentralised finance",
+  "socials": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/HaloDAOFinance",
+      "handle": "HaloDAOFinance"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/HaloDAO",
+      "handle": "HaloDAO"
+    },
+    {
+      "name": "Medium",
+      "url": "https://medium.com/halodao",
+      "handle": "HaloDAO"
+    }
+  ],
+  "website": "https://www.halodao.com/",
+  "explorer": "https://etherscan.io/address/0x6335A2E4a2E304401fcA4Fc0deafF066B813D055",
+  "status": "active",
+  "id": "0x6335A2E4a2E304401fcA4Fc0deafF066B813D055"
+}

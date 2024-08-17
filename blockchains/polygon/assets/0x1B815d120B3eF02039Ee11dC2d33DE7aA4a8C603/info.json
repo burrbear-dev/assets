@@ -1,0 +1,12 @@
+{
+    "name": "Wootrade Network",
+    "website": "https://woo.org/",
+    "description": "Staking WOO unlocks exclusive benefits and value capture from across our centralized and decentralized exchange products. Stake it till you make it.",
+    "socials": [],
+    "explorer": "https://polygonscan.com/token/0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
+    "type": "ERC20",
+    "symbol": "WOO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603"
+}

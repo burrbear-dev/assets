@@ -1,0 +1,11 @@
+{
+  "name": "USD Coin",
+  "website": "https://centre.io/usdc",
+  "description": "USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
+  "explorer": "https://amoy.polygonscan.com/token/0x07b655e4005804afB03986ceF4E611D63Eaac010#transactions",
+  "type": "ERC20",
+  "symbol": "USDC",
+  "decimals": 6,
+  "status": "active",
+  "id": "0x07b655e4005804afB03986ceF4E611D63Eaac010"
+}

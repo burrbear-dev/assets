@@ -1,0 +1,11 @@
+{
+    "name": "Tokenize Emblem",
+    "symbol": "TKX",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://tokenize.exchange/",
+    "explorer": "https://etherscan.io/token/0x667102BD3413bFEaa3Dffb48fa8288819E480a88",
+    "status": "active",
+    "id": "0x667102BD3413bFEaa3Dffb48fa8288819E480a88"
+}

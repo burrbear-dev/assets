@@ -1,0 +1,11 @@
+{
+    "name": "PHP Stablecoin",
+    "symbol": "PHP",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://php.tagcash.com/ ",
+    "explorer": "https://etherscan.io/token/0x7A87104dfeA51853472fFafaD00D43e73284a135",
+    "status": "active",
+    "id": "0x7A87104dfeA51853472fFafaD00D43e73284a135"
+}

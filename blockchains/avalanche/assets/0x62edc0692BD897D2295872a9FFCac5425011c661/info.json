@@ -1,0 +1,11 @@
+{
+    "name": "GMX",
+    "symbol": "GMX",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "GMX is the utility and governance token. Accrues 30% and 27% of V1 and V2 markets generated fees, respectively.",
+    "website": "https://gmx.io/#/",
+    "explorer": "https://snowtrace.io/token/0x62edc0692BD897D2295872a9FFCac5425011c661",
+    "status": "active",
+    "id": "0x62edc0692BD897D2295872a9FFCac5425011c661"
+}

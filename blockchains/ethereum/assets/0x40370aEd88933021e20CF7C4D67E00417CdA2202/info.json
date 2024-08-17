@@ -1,0 +1,11 @@
+{
+    "name": "Xave Token",
+    "website": "https://www.xave.co/",
+    "description": "Xave works with stablecoin issuers to build FX liquidity and let anyone harness the power of DeFi across the world’s currencies.",
+    "explorer": "https://etherscan.io/token/0x40370aEd88933021e20CF7C4D67E00417CdA2202",
+    "type": "ERC20",
+    "symbol": "XAV",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x40370aEd88933021e20CF7C4D67E00417CdA2202"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "StraitsX: XIDR Token",
+    "symbol": "XIDR",
+    "type": "ERC20",
+    "decimals": 6,
+    "description": "-",
+    "website": "https://straitsx.com/id",
+    "explorer": "https://apothem.blocksscan.io/token/0xAfeC667A5a02C1EFC27Dd617Ce1dF47C9E8f0F1e",
+    "status": "active",
+    "id": "0xAfeC667A5a02C1EFC27Dd617Ce1dF47C9E8f0F1e"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "SAND",
+    "website": "https://www.sandbox.game/en/",
+    "description": "SAND is the utility token used throughout The Sandbox ecosystem as the basis for transactions and interactions.",
+    "socials": [],
+    "explorer": "https://polygonscan.com/token/0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+    "type": "ERC20",
+    "symbol": "SAND",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683"
+}

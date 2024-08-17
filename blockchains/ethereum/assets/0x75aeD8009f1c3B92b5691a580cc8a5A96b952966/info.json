@@ -1,0 +1,28 @@
+{
+  "name": "Lollipop Pool",
+  "symbol": "xLPOP",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "HaloDAO allows anyone to swap, lend, borrow and receive yield in local asset backed stablecoins wherever they are in the world by building a stablecoin marketplace protocol that bridges traditional finance and decentralised finance",
+  "socials": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/HaloDAOFinance",
+      "handle": "HaloDAOFinance"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/HaloDAO",
+      "handle": "HaloDAO"
+    },
+    {
+      "name": "Medium",
+      "url": "https://medium.com/halodao",
+      "handle": "HaloDAO"
+    }
+  ],
+  "website": "https://www.halodao.com/",
+  "explorer": "https://etherscan.io/address/0x75aeD8009f1c3B92b5691a580cc8a5A96b952966",
+  "status": "active",
+  "id": "0x75aeD8009f1c3B92b5691a580cc8a5A96b952966"
+}

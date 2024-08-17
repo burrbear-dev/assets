@@ -1,0 +1,11 @@
+{
+  "name": "poundtoken",
+  "symbol": "1GBP",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "1GBP is 100% backed by GBP held in GBP-denominated bank accounts",
+  "website": "https://poundtoken.io/",
+  "explorer": "https://etherscan.io/token/0x86B4dBE5D203e634a12364C0e428fa242A3FbA98",
+  "status": "active",
+  "id": "0x86B4dBE5D203e634a12364C0e428fa242A3FbA98"
+}

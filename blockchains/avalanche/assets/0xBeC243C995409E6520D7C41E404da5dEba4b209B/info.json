@@ -1,0 +1,12 @@
+{
+    "name": "Synthetix Network Token",
+    "website": "https://synthetix.io/",
+    "description": "Synthetix provides liquidity for permissionless derivatives like perpetual futures, options, parimutuel markets, and more across EVM chains. Powering the next generation of permissionless protocols.",
+    "socials": [],
+    "explorer": "https://snowtrace.io/token/0xBeC243C995409E6520D7C41E404da5dEba4b209B",
+    "type": "ERC20",
+    "symbol": "SNX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xBeC243C995409E6520D7C41E404da5dEba4b209B"
+}

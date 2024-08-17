@@ -1,0 +1,12 @@
+{
+    "name": "Axelar",
+    "website": "https://axelar.network/",
+    "description": "Axelar is the programmable Web3 interoperability platform, scaling the next generation of internet applications to billions of users.",
+    "socials": [],
+    "explorer": "https://snowtrace.io/token/0x44c784266cf024a60e8acF2427b9857Ace194C5d",
+    "type": "ERC20",
+    "symbol": "AXL",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x44c784266cf024a60e8acF2427b9857Ace194C5d"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Balancer Aave Boosted Pool (USDC)",
+    "symbol": "bb-a-USDC",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://goerli.etherscan.io/token/0x0595D1Df64279ddB51F1bdC405Fe2D0b4Cc86681",
+    "status": "active",
+    "id": "0x0595D1Df64279ddB51F1bdC405Fe2D0b4Cc86681"
+}

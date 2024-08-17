@@ -1,0 +1,12 @@
+{
+    "name": "Balancer Aave Boosted Pool (USDC)",
+    "website": "",
+    "description": "",
+    "socials": [],
+    "explorer": "https://polygonscan.com/address/0xF93579002DBE8046c43FEfE86ec78b1112247BB8",
+    "type": "ERC20",
+    "symbol": "bb-am-USDC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF93579002DBE8046c43FEfE86ec78b1112247BB8"
+}

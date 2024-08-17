@@ -1,0 +1,11 @@
+{
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Arbitrum is the leading Layer 2 technology that empowers you to explore and build in the largest Layer 1 ecosystem, Ethereum.",
+    "website": "https://arbitrum.io/",
+    "explorer": "https://etherscan.io/token/0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
+    "status": "active",
+    "id": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "UMA",
+    "website": "https://umaproject.org",
+    "description": "UMA Protocol is a Decentralized Finance (DeFi) Protocol on Ethereum for any two counterparties to create their own financial contracts and synthetic assets.",
+    "explorer": "https://snowtrace.io/token/0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339",
+    "research": "",
+    "type": "ERC20",
+    "symbol": "UMA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339"
+}

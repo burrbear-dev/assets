@@ -1,0 +1,11 @@
+{
+  "name": "USDC_mock",
+  "symbol": "USDC_mock",
+  "type": "ERC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "",
+  "explorer": "",
+  "status": "active",
+  "id": "0x3481c2314E4D15603A05Ee7e6BE25fcE4B128a5c"
+}

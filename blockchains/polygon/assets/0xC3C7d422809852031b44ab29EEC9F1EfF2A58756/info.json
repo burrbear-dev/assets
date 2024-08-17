@@ -1,0 +1,12 @@
+{
+    "name": "Lido DAO Token (PoS)",
+    "website": "https://lido.fi/",
+    "description": "The Lido DAO is a Decentralized Autonomous Organization that decides on the key parameters of liquid staking protocols through the voting power of governance token (LDO) tokens.",
+    "socials": [],
+    "explorer": "https://polygonscan.com/token/0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
+    "type": "ERC20",
+    "symbol": "LDO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756"
+}

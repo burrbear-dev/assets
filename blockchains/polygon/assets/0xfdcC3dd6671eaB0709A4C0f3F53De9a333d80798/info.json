@@ -1,0 +1,12 @@
+{
+  "name": "Stable Coin",
+  "website": "https://brale.xyz/",
+  "description": "SBC is a digital dollar stablecoin issued by Brale. It is redeemable one-to-one for U.S. dollars and was created as an example of combining the best of centralized finance with decentralized protocols.",
+  "socials": [],
+  "explorer": "https://polygonscan.com/token/0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798",
+  "type": "ERC20",
+  "symbol": "SBC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Balancer Aave Boosted Pool (USDT)",
+    "website": "",
+    "description": "",
+    "socials": [],
+    "explorer": "https://polygonscan.com/address/0xFf4ce5AAAb5a627bf82f4A571AB1cE94Aa365eA6",
+    "type": "ERC20",
+    "symbol": "bb-am-USDT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xFf4ce5AAAb5a627bf82f4A571AB1cE94Aa365eA6"
+}

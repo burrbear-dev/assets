@@ -1,0 +1,11 @@
+{
+  "name": "Mock XSGD",
+  "symbol": "XSGD",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "",
+  "explorer": "https://artio.beratrail.io/address/0x9e11bf9d712fe1F9117688924223eDC139181183",
+  "status": "active",
+  "id": "0x9e11bf9d712fe1F9117688924223eDC139181183"
+}

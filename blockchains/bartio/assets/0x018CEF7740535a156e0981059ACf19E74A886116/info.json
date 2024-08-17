@@ -1,0 +1,12 @@
+{
+    "name": "Mock EURS",
+    "website": "https://stasis.net",
+    "description": "Produced by STASIS, EURS was developed to tokenize the traditional fiat asset known around the world as the Euro.",
+    "socials": [],
+    "explorer": "https://etherscan.io/token/0x018CEF7740535a156e0981059ACf19E74A886116",
+    "type": "ERC20",
+    "symbol": "Mock EURS",
+    "decimals": 2,
+    "status": "active",
+    "id": "0x018CEF7740535a156e0981059ACf19E74A886116"
+}

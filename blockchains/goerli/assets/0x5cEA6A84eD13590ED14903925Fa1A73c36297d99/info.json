@@ -1,0 +1,11 @@
+{
+    "name": "Balancer Aave Boosted Pool (DAI)",
+    "symbol": "bb-a-DAI",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://goerli.etherscan.io/token/0x5cEA6A84eD13590ED14903925Fa1A73c36297d99",
+    "status": "active",
+    "id": "0x5cEA6A84eD13590ED14903925Fa1A73c36297d99"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Staked AVAX",
+    "website": "https://staking.benqi.fi/",
+    "description": "",
+    "explorer": "https://snowtrace.io/token/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+    "research": "",
+    "type": "ERC20",
+    "symbol": "sAVAX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE"
+}

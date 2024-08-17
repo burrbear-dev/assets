@@ -1,0 +1,12 @@
+{
+    "name": "Wootrade Network",
+    "website": "https://woo.org/",
+    "description": "WOO connects traders, exchanges, institutions, and DeFi platforms with democratized access to the best-in-class liquidity and trading execution at zero or low cost.",
+    "socials": [],
+    "explorer": "https://snowtrace.io/token/0xaBC9547B534519fF73921b1FBA6E672b5f58D083",
+    "type": "ERC20",
+    "symbol": "WOO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xaBC9547B534519fF73921b1FBA6E672b5f58D083"
+}

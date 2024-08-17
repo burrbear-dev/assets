@@ -1,0 +1,11 @@
+{
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "type": "ERC20",
+    "decimals": 8,
+    "description": "",
+    "website": "",
+    "explorer": "https://snowtrace.io/token/0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+    "status": "active",
+    "id": "0x152b9d0FdC40C096757F570A51E494bd4b943E50"
+}

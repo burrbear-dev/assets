@@ -1,0 +1,11 @@
+{
+    "name": "zUSD",
+    "website": "https://baki.exchange/",
+    "description": "Baki is an Infinite-liquidity FX protocol allowing for slippage free swaps between African currencies. The protocol allows users to deposit stable coins and mint overcollateralized, synthetic assets, called zTokens, that are pegged to African currencies, creating the first on-chain implementation of African stable coins.",
+    "explorer": "https://snowtrace.io/token/0x9626B9583519E9dAa1C3a7B2E374518743C91ed2",
+    "type": "ERC20",
+    "symbol": "zUSD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9626B9583519E9dAa1C3a7B2E374518743C91ed2"
+}

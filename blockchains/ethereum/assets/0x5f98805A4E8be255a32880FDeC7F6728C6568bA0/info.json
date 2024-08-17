@@ -1,0 +1,12 @@
+{
+  "name": "Liquity USD",
+  "website": "https://www.liquity.org/",
+  "source_code": "https://etherscan.io/token/0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+  "description": "A USD pegged stablecoin, and need to maintain a minimum collateral ratio of only 110%",
+  "explorer": "https://etherscan.io/token/0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+  "type": "ERC20",
+  "symbol": "LUSD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Glo Dollar",
+  "website": "https://www.glodollar.org/",
+  "description": "Glo Dollar is developed by the Glo Foundation, a mission-driven organization focused on ending extreme poverty.",
+  "socials": [],
+  "explorer": "https://polygonscan.com/token/0x4F604735c1cF31399C6E711D5962b2B3E0225AD3",
+  "type": "ERC20",
+  "symbol": "USDGLO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4F604735c1cF31399C6E711D5962b2B3E0225AD3"
+}

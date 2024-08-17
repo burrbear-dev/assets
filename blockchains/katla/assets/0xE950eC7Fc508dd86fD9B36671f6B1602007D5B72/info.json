@@ -1,0 +1,11 @@
+{
+  "name": "TXAU_mock",
+  "symbol": "TXAU_mock",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "",
+  "explorer": "https://explorer.katla.taiko.xyz/address/0xE950eC7Fc508dd86fD9B36671f6B1602007D5B72",
+  "status": "active",
+  "id": "0xE950eC7Fc508dd86fD9B36671f6B1602007D5B72"
+}

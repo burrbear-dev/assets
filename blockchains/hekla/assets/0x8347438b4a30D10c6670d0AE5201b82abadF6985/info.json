@@ -1,0 +1,12 @@
+{
+  "name": "STASIS EURO",
+  "website": "https://stasis.net",
+  "description": "Produced by STASIS, EURS was developed to tokenize the traditional fiat asset known around the world as the Euro.",
+  "socials": [],
+  "explorer": "https://explorer.hekla.taiko.xyz/token/0x8347438b4a30D10c6670d0AE5201b82abadF6985",
+  "type": "ERC20",
+  "symbol": "EURS",
+  "decimals": 2,
+  "status": "active",
+  "id": "0x8347438b4a30D10c6670d0AE5201b82abadF6985"
+}

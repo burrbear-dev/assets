@@ -1,0 +1,11 @@
+{
+    "name": "PAR Stablecoin",
+    "symbol": "PAR",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "The PAR token is a price-stable token pegged to the Euro.",
+    "website": "https://par.mimo.capital/",
+    "explorer": "https://etherscan.io/token/0x68037790A0229e9Ce6EaA8A99ea92964106C4703",
+    "status": "active",
+    "id": "0x68037790A0229e9Ce6EaA8A99ea92964106C4703"
+}

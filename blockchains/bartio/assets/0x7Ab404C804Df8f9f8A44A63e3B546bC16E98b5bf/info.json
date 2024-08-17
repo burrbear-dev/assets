@@ -1,0 +1,11 @@
+{
+  "name": "DAI_mock",
+  "symbol": "DAI_mock",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "",
+  "explorer": "",
+  "status": "active",
+  "id": "0x7Ab404C804Df8f9f8A44A63e3B546bC16E98b5bf"
+}

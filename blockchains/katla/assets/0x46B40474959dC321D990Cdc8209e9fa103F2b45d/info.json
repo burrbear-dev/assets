@@ -1,0 +1,11 @@
+{
+  "name": "WETH",
+  "symbol": "WETH",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "",
+  "explorer": "https://explorer.katla.taiko.xyz/address/0x46B40474959dC321D990Cdc8209e9fa103F2b45d",
+  "status": "active",
+  "id": "0x46B40474959dC321D990Cdc8209e9fa103F2b45d"
+}

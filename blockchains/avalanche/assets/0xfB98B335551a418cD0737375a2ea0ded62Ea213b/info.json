@@ -1,0 +1,12 @@
+{
+    "name": "Pendle",
+    "website": "https://www.pendle.finance/",
+    "description": "",
+    "explorer": "https://snowtrace.io/token/0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
+    "research": "",
+    "type": "ERC20",
+    "symbol": "PENDLE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b"
+}

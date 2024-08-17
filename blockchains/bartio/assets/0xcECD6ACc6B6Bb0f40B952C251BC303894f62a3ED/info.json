@@ -1,0 +1,11 @@
+{
+    "name": "Mock USDT",
+    "website": "https://tether.to",
+    "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.",
+    "explorer": "",
+    "type": "ERC20",
+    "symbol": "Mock USDT",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xcECD6ACc6B6Bb0f40B952C251BC303894f62a3ED"
+}

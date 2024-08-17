@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Bera",
+  "symbol": "BERA",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "",
+  "explorer": "https://artio.beratrail.io/address/0x7507c1dc16935B82698e4C63f2746A2fCf994dF8",
+  "status": "active",
+  "id": "0x7507c1dc16935B82698e4C63f2746A2fCf994dF8"
+}

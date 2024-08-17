@@ -1,0 +1,12 @@
+{
+    "name": "1INCH Token",
+    "website": "https://1inch.io/",
+    "description": "The 1INCH token is the governance and utility token of the 1inch Network. The token is applied in different capacities in the two existing protocols and will be used in the tokenomics of all new protocols released by the 1inch Network.",
+    "socials": [],
+    "explorer": "https://polygonscan.com/token/0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f",
+    "type": "ERC20",
+    "symbol": "1INCH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "BRLA Token",
+  "website": "",
+  "description": "",
+  "socials": [],
+  "explorer": "https://polygonscan.com/token/0xE6A537a407488807F0bbeb0038B79004f19DDDFb",
+  "type": "ERC20",
+  "symbol": "BRLA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xE6A537a407488807F0bbeb0038B79004f19DDDFb"
+}

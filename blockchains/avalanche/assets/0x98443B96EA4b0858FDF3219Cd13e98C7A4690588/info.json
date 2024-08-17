@@ -1,0 +1,12 @@
+{
+    "name": "Basic Attention Token",
+    "website": "https://basicattentiontoken.org",
+    "description": "Basic Attention Token (BAT) project is an open-source, decentralized ad exchange platform built, on the Ethereum platform.",
+    "explorer": "https://snowtrace.io/token/0x98443B96EA4b0858FDF3219Cd13e98C7A4690588",
+    "research": "https://research.binance.com/en/projects/basic-attention-token",
+    "type": "ERC20",
+    "symbol": "BAT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x98443B96EA4b0858FDF3219Cd13e98C7A4690588"
+}

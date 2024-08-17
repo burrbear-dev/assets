@@ -1,0 +1,12 @@
+{
+    "name": "Balancer Aave Boosted Pool (DAI)",
+    "website": "",
+    "description": "",
+    "socials": [],
+    "explorer": "https://polygonscan.com/address/0x178E029173417b1F9C8bC16DCeC6f697bC323746",
+    "type": "ERC20",
+    "symbol": "bb-am-DAI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x178E029173417b1F9C8bC16DCeC6f697bC323746"
+}

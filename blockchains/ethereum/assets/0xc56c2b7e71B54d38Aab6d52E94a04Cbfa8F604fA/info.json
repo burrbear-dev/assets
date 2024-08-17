@@ -1,0 +1,11 @@
+{
+    "name": "Z.com USD",
+    "website": "https://stablecoin.z.com/",
+    "description": "ZUSD are reserve-backed stablecoins, developed by issued by GMO Trust.",
+    "explorer": "https://etherscan.io/token/0xc56c2b7e71B54d38Aab6d52E94a04Cbfa8F604fA",
+    "type": "ERC20",
+    "symbol": "ZUSD",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xc56c2b7e71B54d38Aab6d52E94a04Cbfa8F604fA"
+}
