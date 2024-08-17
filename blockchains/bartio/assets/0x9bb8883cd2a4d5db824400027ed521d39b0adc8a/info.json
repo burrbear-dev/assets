@@ -1,0 +1,11 @@
+{
+  "name": "shSOL",
+  "symbol": "shSOL",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "",
+  "explorer": "https://bartio.beratrail.io/token/0x9bb8883cd2a4d5db824400027ed521d39b0adc8a",
+  "status": "active",
+  "id": "0x9bb8883cd2a4d5db824400027ed521d39b0adc8a"
+}
